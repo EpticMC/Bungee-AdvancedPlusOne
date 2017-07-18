@@ -1,0 +1,10 @@
+name: AdvancedPlusOne
+main: org.nulldev.AdvancedPlusOne.Main
+author: NullDev
+version: 1.0
+description: Sets the Max Slots to one number higher than the player count. Base number can be customized!
+
+commands:
+  advancedplusone:
+    description: Main APO command.
+aliases: apo
