@@ -1,6 +1,6 @@
 # Bungee-AdvancedPlusOne
 
-[![GitHub release](https://img.shields.io/github/release/EpticMC/Bungee-AdvancedPlusOne.svg)](https://github.com/EpticMC/Bungee-AdvancedPlusOne/releases) [![Code Climate](https://img.shields.io/github/issues/EpticMC/Bungee-AdvancedPlusOne.svg)](https://github.com/EpticMC/Bungee-AdvancedPlusOne/issues)
+[![GitHub release](https://img.shields.io/github/release/EpticMC/Bungee-AdvancedPlusOne.svg)](https://github.com/EpticMC/Bungee-AdvancedPlusOne/releases) [![Github Issues](https://img.shields.io/github/issues/EpticMC/Bungee-AdvancedPlusOne.svg)](https://github.com/EpticMC/Bungee-AdvancedPlusOne/issues) [![GitHub closed issues](https://img.shields.io/github/issues-closed/EpticMC/Bungee-AdvancedPlusOne.svg)](https://github.com/EpticMC/Bungee-AdvancedPlusOne/issues)
 
 AdvancedPlusOne Plugin for Bungeecord Proxys Edit
 
