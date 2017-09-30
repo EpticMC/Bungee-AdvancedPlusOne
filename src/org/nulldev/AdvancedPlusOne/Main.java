@@ -62,7 +62,6 @@ public class Main extends Plugin implements Listener {
             String online = Integer.toString(response.getPlayers().getOnline());
             if (online == max) this.version.setName((Object)ChatColor.GRAY + online + "/" + max + 1);
             else this.version.setName((Object)ChatColor.GRAY + online + "/" + max);
-            this.version.setProtocol(999);
             response.setVersion(this.version);
         }
     }
